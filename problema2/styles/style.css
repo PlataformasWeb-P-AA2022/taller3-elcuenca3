@@ -1,0 +1,19 @@
+body {
+    background: #FEFEFD;
+    padding: 2%;
+}
+
+th,
+td {
+    padding: 15px;
+    border-bottom: 1px solid black;
+}
+
+tr:hover {
+    background-color: #258EAD;
+}
+
+.mensaje {
+    padding-left: 50px;
+    position: relative;
+}
